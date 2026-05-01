@@ -1,19 +1,14 @@
-# 👋 ¡Hola! Soy Blancadum
+# 👋 ¡Hola! Soy Blanca!
 
-Desarrolladora apasionado por la programación. Aquí encontrarás mis proyectos de aprendizaje y desarrollo.
+Desarrolladora apasionada por la programación. Lee más **[sobre mí](https://www.psiqfly.com/autora)**. 
+
+Aquí encontrarás mis proyectos de aprendizaje y desarrollo. 
 
 ---
+## 📚 Mis Proyectos con Java
 
-## 📚 Mis Proyectos
-
-### ☕ Java
+### ☕ Para comprender un poquito la lógica
 Proyectos educativos en Java enfocados en POO, estructuras de datos y arquitectura.
-
-#### RosaliaShow - Sistema de Entradas
-| Versión | Descripción | Estado |
-|---------|-------------|--------|
-| **[RosaliaShowBase](https://github.com/Blancadum/RosaliaShowBase)** | Plantilla base para forkar y practicar | 📚 Template |
-| **[RosaliaShowBlanca](https://github.com/Blancadum/RosaliaShowBlanca)** | Versión resuelta y completa | ✅ Completo |
 
 #### Cajero - Sistema de Caja
 | Versión | Descripción | Estado |
@@ -27,22 +22,24 @@ Proyectos educativos en Java enfocados en POO, estructuras de datos y arquitectu
 | **[CarritoBase](https://github.com/Blancadum/CarritoBase)** | Plantilla para practicar | 📚 Template |
 | **[CarritoBlanca](https://github.com/Blancadum/CarritoBlanca)** | Mi solución implementada | 🚀 En desarrollo |
 
+### 🎮 Juegos
+Proyectos de videojuegos y entretenimiento.
+
 #### CasinoPokemon - Juego de Casino
 | Versión | Descripción | Estado |
 |---------|-------------|--------|
 | **[CasinoPokemonBase](https://github.com/Blancadum/CasinoPokemonBase)** | Plantilla para practicar | 📚 Template |
 | **[CasinoPokemonBlanca](https://github.com/Blancadum/CasinoPokemonBlanca)** | Mi solución implementada | 🎮 En desarrollo |
 
-### 🎮 Juegos
-Proyectos de videojuegos y entretenimiento.
-
 #### LoboGAME
+Si eres aldeano, procura dormir con un ojo abierto y el otro cerrado. 
 | Versión | Descripción | Estado |
 |---------|-------------|--------|
 | **[LoboGAMEBase](https://github.com/Blancadum/LoboGAMEBase)** | Plantilla para practicar | 📚 Template |
 | **[LoboGAMEBlanca](https://github.com/Blancadum/LoboGAMEBlanca)** | Mi solución implementada | 🚀 En desarrollo |
 
 #### Supervivientes
+Demuestra que eres un verdadero superviviente
 | Versión | Descripción | Estado |
 |---------|-------------|--------|
 | **[SupervivientesBase](https://github.com/Blancadum/SupervivientesBase)** | Plantilla para practicar | 📚 Template |
@@ -51,16 +48,25 @@ Proyectos de videojuegos y entretenimiento.
 ### 🍽️ Aplicaciones Web
 Proyectos de desarrollo backend y gestión.
 
-#### RestaurantePedidos
+#### RosaliaShow
+Tu TickerMaster de andar por casa
 | Versión | Descripción | Estado |
 |---------|-------------|--------|
-| **[RestaurantePedidosBase](https://github.com/Blancadum/RestaurantePedidosBase)** | Plantilla para practicar | 📚 Template |
-| **[RestaurantePedidosBlanca](https://github.com/Blancadum/RestaurantePedidosBlanca)** | Mi solución implementada | 🚀 En desarrollo |
+| **[RosaliaShowBase](https://github.com/Blancadum/RosaliaShowBase)** | Plantilla base para forkar y practicar | 📚 Template |
+| **[RosaliaShowBlanca](https://github.com/Blancadum/RosaliaShowBlanca)** | Versión resuelta y completa | ✅ Completo |
+
+#### Comandas
+¿Qué mejor que un programita de pedidos en un restaurante para jugar con las clases de Java?
+| Versión | Descripción | Estado |
+|---------|-------------|--------|
+| **[RestaurantePedidosBase](https://github.com/Blancadum/ComandasBase)** | Plantilla para practicar | 📚 Template |
+| **[RestaurantePedidosBlanca](https://github.com/Blancadum/ComandasBlanca)** | Mi solución implementada | 🚀 En desarrollo |
 
 ### 📊 Herramientas y Utilidades
-Proyectos de utilidad y tracking.
 
-#### EACTrackerList
+Proyectos de utilidad y tracking.
+#### EACTrackerList (En proceso)
+Será un gestor de tareas que devuelva un check (✅) si se ha realizado la tarea o una cruz (❌) si es una tarea faltante.
 | Versión | Descripción | Estado |
 |---------|-------------|--------|
 | **[EACTrackerListBase](https://github.com/Blancadum/EACTrackerListBase)** | Plantilla para practicar | 📚 Template |
@@ -75,14 +81,6 @@ Proyectos de utilidad y tracking.
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-</p>
-
----
-
-## 📈 Estadísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Blancadum&show_icons=true&theme=dark" alt="GitHub Stats"/>
 </p>
 
 ---

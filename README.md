@@ -59,8 +59,8 @@ Tu TickerMaster de andar por casa
 ¿Qué mejor que un programita de pedidos en un restaurante para jugar con las clases de Java?
 | Versión | Descripción | Estado |
 |---------|-------------|--------|
-| **[RestaurantePedidosBase](https://github.com/Blancadum/ComandasBase)** | Plantilla para practicar | 📚 Template |
-| **[RestaurantePedidosBlanca](https://github.com/Blancadum/ComandasBlanca)** | Mi solución implementada | 🚀 En desarrollo |
+| **[ComandasBase](https://github.com/Blancadum/ComandasBase)** | Plantilla para practicar | 📚 Template |
+| **[ComandasBlanca](https://github.com/Blancadum/ComandasBlanca)** | Mi solución implementada | 🚀 En desarrollo |
 
 ### 📊 Herramientas y Utilidades
 

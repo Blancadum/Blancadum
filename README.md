@@ -1,9 +1,18 @@
 # 👋 ¡Hola! Soy Blanca!
 
-Desarrolladora apasionada por la programación. Con formación en Psicología y Didáctica. 
+Desarrolladora apasionada por la programación. Con formación en Psicología y Didáctica.
+
 Lee más **[sobre mí](https://www.psiqfly.com/autora)**. 
 
 Aquí encontrarás mis proyectos de aprendizaje y desarrollo. 
+## Aclaraciones previas
+- He incluido tests con excepciones.
+- Se incluyen tests con preguntas de comprensión acerca de cuestiones teóricas aplicadas al proyecto, que ayuden al aprendiz a consolidar aprendizajes.
+- Cada proyecto se divide en fases estancas, progresivamente más difíciles (son programas escalables), que permiten ir explorando a un ritmo adaptado a cada uno.
+- De cada proyecto hay dos versiones: La terminada en "Blanca" (mi proceso) y la terminada en "Base" (versión descargable y "forkeable")
+- También se incluyen documentos readme explicativos sobre cómo hacer el proyecto, su relación con la teoría y el paso a paso para aprender a usar github desde el principio sin complicaciones.
+
+Espero que guste! 
 
 ---
 ## 📚 Mis Proyectos con Java

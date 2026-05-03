@@ -1,6 +1,7 @@
 # 👋 ¡Hola! Soy Blanca!
 
-Desarrolladora apasionada por la programación. Lee más **[sobre mí](https://www.psiqfly.com/autora)**. 
+Desarrolladora apasionada por la programación. Con formación en Psicología y Didáctica. 
+Lee más **[sobre mí](https://www.psiqfly.com/autora)**. 
 
 Aquí encontrarás mis proyectos de aprendizaje y desarrollo. 
 

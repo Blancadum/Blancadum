@@ -9,7 +9,11 @@ Lee más **[sobre mí](https://www.psiqfly.com/autora)**.
 Aquí encontrarás mis proyectos de aprendizaje y desarrollo. 
 
 ---
-## 📚 Mis Proyectos con Java
+## 📚 Mis Proyectos Fullstack
+
+<a href="https://www.psiqfly.com/"><img width="400" height="175" alt="logo-psiqfly" src="https://github.com/user-attachments/assets/a7b6b4bc-07fc-402f-8e77-4fa52eff516f" /></a>
+- PsiqFly®, proyecto de App de ayuda a psicólogos noveles que hace de puente hacia el mundo laboral, con posibilidad de autoevaluación de skills necesarias para un buen desempeño como psicólogos sin descuidar la salud mental, a la vez que permite adquisición de práctica mediante la exposición gradual al estímulo fóbico (para aquellos psicólogos noveles especialmente inseguros ante la posibilidad de ejercer la profesión).
+- Web educativa para juniors interesados en el mejor stack para un java developer: <img width="1410" height="2253" alt="java-backend-dev-mockup" src="https://github.com/user-attachments/assets/b9cad89d-c329-4501-87e5-189fabb99040" />
 
 ## 🛠️ Tecnologías
 

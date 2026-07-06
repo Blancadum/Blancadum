@@ -1,9 +1,8 @@
 # 👋 ¡Hola! Soy Blanca!
 
 No sé cómo definirme, solo diré que aprender a hacer programitas me está FLIPANDO. 
-*Perdón por los 404, en unos días retomaré GitHub, estoy de Exámenes! (deséame suerte)* 
-Vuelvo a la carga el día 26. A partir de esa fecha, los 404 serán 200!
-Gracias por la comprensión :) 
+Actuamente, formándome gracias a Programatufuturo, de Acenture.
+Aprovechando el verano para sacar el máximo provecho a mi aprendizaje.
 
 Lee más **[sobre mí](https://www.psiqfly.com/autora)**. 
 

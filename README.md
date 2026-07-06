@@ -8,82 +8,9 @@ Gracias por la comprensión :)
 Lee más **[sobre mí](https://www.psiqfly.com/autora)**. 
 
 Aquí encontrarás mis proyectos de aprendizaje y desarrollo. 
-## Aclaraciones previas
-- He incluido tests con excepciones.
-- Se incluyen tests con preguntas de comprensión acerca de cuestiones teóricas aplicadas al proyecto, que ayuden al aprendiz a consolidar aprendizajes.
-- Cada proyecto se divide en fases estancas, progresivamente más difíciles (son programas escalables), que permiten ir explorando a un ritmo adaptado a cada uno.
-- De cada proyecto hay dos versiones: La terminada en "Blanca" (mi proceso) y la terminada en "Base" (versión descargable y "forkeable")
-- También se incluyen documentos readme explicativos sobre cómo hacer el proyecto, su relación con la teoría y el paso a paso para aprender a usar github desde el principio sin complicaciones.
 
 ---
 ## 📚 Mis Proyectos con Java
-
-### ☕ Para comprender un poquito la lógica
-Proyectos educativos en Java enfocados en POO, estructuras de datos y arquitectura.
-
-#### Cajero - Sistema de Caja
-| Versión | Descripción | Estado |
-|---------|-------------|--------|
-| **[CajeroBase](https://github.com/Blancadum/CajeroBase)** | Plantilla para practicar | 📚 Template |
-| **[CajeroBlanca](https://github.com/Blancadum/CajeroBlanca)** | Mi solución implementada | 🚀 En desarrollo |
-
-#### Carrito - Sistema de Compras
-| Versión | Descripción | Estado |
-|---------|-------------|--------|
-| **[CarritoBase](https://github.com/Blancadum/CarritoBase)** | Plantilla para practicar | 📚 Template |
-| **[CarritoBlanca](https://github.com/Blancadum/CarritoBlanca)** | Mi solución implementada | 🚀 En desarrollo |
-
-### 🎮 Juegos
-Proyectos de videojuegos y entretenimiento.
-
-#### CasinoPokemon - Juego de Casino
-| Versión | Descripción | Estado |
-|---------|-------------|--------|
-| **[CasinoPokemonBase](https://github.com/Blancadum/CasinoPokemonBase)** | Plantilla para practicar | 📚 Template |
-| **[CasinoPokemonBlanca](https://github.com/Blancadum/CasinoPokemonBlanca)** | Mi solución implementada | 🎮 En desarrollo |
-
-#### LoboGAME
-Si eres aldeano, procura dormir con un ojo abierto y el otro cerrado. 
-| Versión | Descripción | Estado |
-|---------|-------------|--------|
-| **[LoboGAMEBase](https://github.com/Blancadum/LoboGAMEBase)** | Plantilla para practicar | 📚 Template |
-| **[LoboGAMEBlanca](https://github.com/Blancadum/LoboGAMEBlanca)** | Mi solución implementada | 🚀 En desarrollo |
-
-#### Supervivientes
-Demuestra que eres un verdadero superviviente
-| Versión | Descripción | Estado |
-|---------|-------------|--------|
-| **[SupervivientesBase](https://github.com/Blancadum/SupervivientesBase)** | Plantilla para practicar | 📚 Template |
-| **[SupervivientesBlanca](https://github.com/Blancadum/SupervivientesBlanca)** | Mi solución implementada | 🚀 En desarrollo |
-
-### 🍽️ Aplicaciones Web
-Proyectos de desarrollo backend y gestión.
-
-#### RosaliaShow
-Tu TickerMaster de andar por casa
-| Versión | Descripción | Estado |
-|---------|-------------|--------|
-| **[RosaliaShowBase](https://github.com/Blancadum/RosaliaShowBase)** | Plantilla base para forkar y practicar | 📚 Template |
-| **[RosaliaShowBlanca](https://github.com/Blancadum/RosaliaShowBlanca)** | Versión resuelta y completa | ✅ Completo |
-
-#### Comandas
-¿Qué mejor que un programita de pedidos en un restaurante para jugar con las clases de Java?
-| Versión | Descripción | Estado |
-|---------|-------------|--------|
-| **[ComandasBase](https://github.com/Blancadum/ComandasBase)** | Plantilla para practicar | 📚 Template |
-| **[ComandasBlanca](https://github.com/Blancadum/ComandasBlanca)** | Mi solución implementada | 🚀 En desarrollo |
-
-### 📊 Herramientas y Utilidades
-
-Proyectos de utilidad y tracking.
-#### EACTrackerList (En proceso)
-Será un gestor de tareas que devuelva un check (✅) si se ha realizado la tarea o una cruz (❌) si es una tarea faltante.
-| Versión | Descripción | Estado |
-|---------|-------------|--------|
-| **[EACTrackerListBase](https://github.com/Blancadum/EACTrackerListBase)** | Plantilla para practicar | 📚 Template |
-| **[EACTrackerListBlanca](https://github.com/Blancadum/EACTrackerListBlanca)** | Mi solución implementada | 🚀 En desarrollo |
-
----
 
 ## 🛠️ Tecnologías
 
@@ -101,7 +28,7 @@ Será un gestor de tareas que devuelva un check (✅) si se ha realizado la tare
 
 ## 🎯 Objetivos
 
-- ✅ Dominar Java y POO
+- ✅ Aprender buenas prácticas y automatizar aprendizajes en Java y POO
 - 🚀 Desarrollar aplicaciones escalables
 - 📚 Aprender nuevas tecnologías
 - 🤝 Contribuir a proyectos open source

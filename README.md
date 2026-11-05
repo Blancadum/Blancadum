@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Blanca de Uña Martín
+# Blanca 
 
 <p align="left">
   <strong>Full Stack Developer • Especialista en IA Generativa & Agentes • Perfil híbrido psi-tech</strong><br>

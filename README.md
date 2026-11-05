@@ -1,4 +1,4 @@
-# Blanca 
+# Blanca de Uña Martín
 
 <p align="left">
   <strong>Full Stack Developer • Especialista en IA Generativa & Agentes • Perfil híbrido psi-tech</strong><br>
@@ -7,9 +7,10 @@
 
 <p align="left">
   <a href="https://linkedin.com/in/blancadeuna"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://docs.google.com/document/d/1G0Rb6__ahn42j6BckkFq-OpY_ET4JyEOgouNBg9q5Oc/edit?usp=drive_link"><img src="https://img.shields.io/badge/CV_ATS_(Google_Docs)-4285F4?style=for-the-badge&logo=googledocs&logoColor=white" alt="CV Google Docs"/></a>
+  <a href="https://drive.google.com/file/d/1q8nAUcX96KDHb_Yh9PqC4na8RRJ0GV_z/view?usp=drive_link"><img src="https://img.shields.io/badge/CV_(PDF)-1B365D?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV PDF"/></a>
   <a href="https://www.credly.com/users/blancadeuna"><img src="https://img.shields.io/badge/Credly_Insignias-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly"/></a>
-  <a href="https://github.com/Blancadum/cv"><img src="https://img.shields.io/badge/Descargar_CV_(PDF)-1B365D?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV"/></a>
-  <a href="https://www.psiqfly.com/"><img src="https://img.shields.io/badge/Portfolio_Web-00C7B7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Web"/></a>
+  <a href="https://www.psiqfly.com/"><img src="https://img.shields.io/badge/PsiqFly-00C7B7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="PsiqFly"/></a>
 </p>
 
 ---
@@ -24,7 +25,7 @@ Apasionada por el código limpio (*Clean Code*), la integración continua, el de
 ## 🚀 Proyectos destacados
 
 ### 🧠 [MiCampus](https://github.com/Blancadum/Micampus) — Hub Educativo & Tutor IA Local (Hermes)
-> Plataforma web modular para centralizar formaciones técnicas simultáneas (DAW, bootcamps de IA y SEPE), rompiendo el estudio en silos mediante un núcleo cognitivo transversal.
+> Plataforma web modular para centralizar formaciones técnicas simultáneas (DAW, bootcamps de IA y SEPE), rompiendo el estudio en silos mediante un núcleo transversal (Second Brain) que segmenta en competencias todos los contenidos comunes de cada materia. 
 - **Módulo transversal "Brain":** Agrupación y tracking 360° del aprendizaje por competencias transversales, mitigando la sobrecarga de información.
 - **IA Local (Proyecto Hermes):** Asistente conversacional privado ejecutado en local mediante **Ollama** (Llama 3.1 / Qwen 2.5), con 0 coste de API y total privacidad.
 - **Omnicanalidad:** Integración con **Telegram Bot API**, sincronización de deadlines con el calendario nativo de macOS y visor interactivo de apuntes en Markdown.
@@ -191,8 +192,6 @@ Apasionada por el código limpio (*Clean Code*), la integración continua, el de
 ## 📫 Conecta conmigo
 
 - **LinkedIn:** [linkedin.com/in/blancadeuna](https://www.linkedin.com/in/blancadeuna)
-- **Credly:** [credly.com/users/blancadeuna](https://www.credly.com/users/blancadeuna)
-- **Web:** [psiqfly.com](https://www.psiqfly.com/)
 - **Email:** blancadum@gmail.com
 
 ---

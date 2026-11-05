@@ -1,33 +1,96 @@
-# 👋 ¡Hola! Soy Blanca
+# 👋 ¡Hola! Soy Blanca de Uña Martín
 
-Estoy en transición al desarrollo de software y ahora mismo centrada en aprender con proyectos reales.  
-Actualmente me estoy formando con **Programa tu Futuro (Accenture)** y aprovechando el verano para acelerar al máximo.
+<p align="left">
+  <strong>Full Stack Developer • Especialista en IA Generativa & Agentes • Perfil híbrido psi-tech</strong><br>
+  <em>Desarrollo de software robusto, arquitecturas RAG, sistemas multiagente y diseño centrado en la persona (UX).</em>
+</p>
 
-Lee más **[sobre mí](https://www.psiqfly.com/autora)**.
+<p align="left">
+  <a href="https://linkedin.com/in/blancadeuna"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.credly.com/users/blancadeuna"><img src="https://img.shields.io/badge/Credly_Insignias-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly"/></a>
+  <a href="https://github.com/Blancadum/cv"><img src="https://img.shields.io/badge/Descargar_CV_(PDF)-1B365D?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV"/></a>
+  <a href="https://www.psiqfly.com/"><img src="https://img.shields.io/badge/Portfolio_Web-00C7B7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Web"/></a>
+</p>
+
+---
+
+### 🧬 Sobre mí
+Graduada y con dos másteres en **Psicología (UOC e ISEP)**, combino rigor analítico, metodología experimental y visión centrada en el usuario con ingeniería de software moderna (**Java, Spring Boot, React, Angular, Node.js**) y especialización en **IA Generativa y Sistemas Multiagente**. 
+
+Apasionada por el código limpio (*Clean Code*), la integración continua, el desarrollo guiado por especificaciones (*Spec-Driven Development*) y la soberanía de datos mediante LLMs en local.
 
 ---
 
 ## 🚀 Proyectos destacados
 
-### 🧠 PsiQFly®
-[![PsiQFly](https://github.com/user-attachments/assets/a7b6b4bc-07fc-402f-8e77-4fa52eff516f)](https://www.psiqfly.com/)
+### 🧠 [MiCampus](https://github.com/Blancadum/Micampus) — Hub Educativo & Tutor IA Local (Hermes)
+> Plataforma web modular para centralizar formaciones técnicas simultáneas (DAW, bootcamps de IA y SEPE), rompiendo el estudio en silos mediante un núcleo cognitivo transversal.
+- **Módulo transversal "Brain":** Agrupación y tracking 360° del aprendizaje por competencias transversales, mitigando la sobrecarga de información.
+- **IA Local (Proyecto Hermes):** Asistente conversacional privado ejecutado en local mediante **Ollama** (Llama 3.1 / Qwen 2.5), con 0 coste de API y total privacidad.
+- **Omnicanalidad:** Integración con **Telegram Bot API**, sincronización de deadlines con el calendario nativo de macOS y visor interactivo de apuntes en Markdown.
+- **Stack:** `React` • `Vite` • `Node.js` • `Ollama` • `Telegram Bot API` • `Tailwind CSS`
 
-Plataforma de entrenamiento para psicólogos/as noveles enfocada en:
-- práctica guiada y progresiva,
-- desarrollo de habilidades profesionales,
-- autocuidado y salud mental en el ejercicio clínico.
+### 🩺 [PsiQFly®](https://www.psiqfly.com/) — Salud Mental & Mitigación de Sesgos
+> Progressive Web App (PWA) de entrenamiento clínico y simulación interactiva orientada a mitigar sesgos diagnósticos en psicología.
+- Arquitectura MERN completa con autenticación segura JWT y endpoints RESTful.
+- Validación empírica con Trabajo de Fin de Máster publicado en el repositorio institucional ISEP.
+- **Stack:** `MongoDB` • `Express` • `React` • `Node.js` • `JWT` • `Scrum`
 
-### 💻 FullstackDevLovers
-Proyecto educativo para juniors que quieren orientarse al stack de desarrollo Java Full Stack.
-
-![FullstackDevLovers](https://github.com/user-attachments/assets/b9cad89d-c329-4501-87e5-189fabb99040)
+### 💻 [FullstackDevLovers](https://fullstack-dev-lovers.vercel.app/) — Plataforma Educativa Tech
+> Plataforma web integral orientada a acelerar el aprendizaje práctico de desarrollo Full Stack.
+- Integración de agentes conversacionales para tutorización técnica guiada en tiempo real.
+- Optimización de Core Web Vitals (**95+ en PageSpeed**) y despliegue continuo en Vercel.
+- **Stack:** `React` • `Node.js` • `Express` • `Vercel` • `SEO On-Page`
 
 ---
 
-## 🗂️ Repositorios por organización
+## 🛠️ Stack Tecnológico & Herramientas
+
+#### Lenguajes & Backend
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+</p>
+
+#### Frontend & UI
+<p align="left">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+</p>
+
+#### IA Generativa, Agentes & Cloud
+<p align="left">
+  <img src="https://img.shields.io/badge/Ollama_(Local_LLMs)-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/>
+  <img src="https://img.shields.io/badge/Microsoft_Azure_AI-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure AI"/>
+  <img src="https://img.shields.io/badge/AWS_Bedrock-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS Bedrock"/>
+  <img src="https://img.shields.io/badge/Model_Context_Protocol-412991?style=for-the-badge&logoColor=white" alt="MCP"/>
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="Copilot"/>
+</p>
+
+#### Bases de Datos & DevOps
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</p>
+
+---
+
+## 🗂️ Repositorios & Formación Práctica
 
 <details>
-  <summary><strong>MiniLearnings</strong> (proyectos consolidados)</summary>
+  <summary><strong>MiniLearnings</strong> (proyectos de consolidación)</summary>
 
 - [Comandas](https://github.com/MiniLearnings/Comandas)
 - [Cajero](https://github.com/MiniLearnings/Cajero)
@@ -42,10 +105,10 @@ Proyecto educativo para juniors que quieren orientarse al stack de desarrollo Ja
 </details>
 
 <details>
-  <summary><strong>My-Ironhack-lab</strong> (labs de Ironhack)</summary>
+  <summary><strong>My-Ironhack-lab</strong> (+30 labs intensivos Full Stack)</summary>
 
 <details>
-  <summary><strong>&nbsp;&nbsp;&nbsp;React</strong></summary>
+  <summary><strong>&nbsp;&nbsp;&nbsp;⚛️ React</strong></summary>
 
 - [lab-react-iron-travels](https://github.com/My-Ironhack-lab/lab-react-iron-travels)
 - [lab-react-stack-tracker](https://github.com/My-Ironhack-lab/lab-react-stack-tracker)
@@ -69,7 +132,7 @@ Proyecto educativo para juniors que quieren orientarse al stack de desarrollo Ja
 </details>
 
 <details>
-  <summary><strong>&nbsp;&nbsp;&nbsp;Node / Express / MongoDB</strong></summary>
+  <summary><strong>&nbsp;&nbsp;&nbsp;🟩 Node / Express / MongoDB</strong></summary>
 
 - [lab-intro-node](https://github.com/My-Ironhack-lab/lab-intro-node)
 - [lab-express-basic-server](https://github.com/My-Ironhack-lab/lab-express-basic-server)
@@ -81,7 +144,7 @@ Proyecto educativo para juniors que quieren orientarse al stack de desarrollo Ja
 </details>
 
 <details>
-  <summary><strong>&nbsp;&nbsp;&nbsp;JavaScript / DOM</strong></summary>
+  <summary><strong>&nbsp;&nbsp;&nbsp;🟨 JavaScript / DOM</strong></summary>
 
 - [lab-js-countdown](https://github.com/My-Ironhack-lab/lab-js-countdown)
 - [lab-js-challenges](https://github.com/My-Ironhack-lab/lab-js-challenges)
@@ -102,7 +165,7 @@ Proyecto educativo para juniors que quieren orientarse al stack de desarrollo Ja
 </details>
 
 <details>
-  <summary><strong>&nbsp;&nbsp;&nbsp;HTML / CSS y juegos</strong></summary>
+  <summary><strong>&nbsp;&nbsp;&nbsp;🎨 HTML / CSS</strong></summary>
 
 - [lab-html-exercise](https://github.com/My-Ironhack-lab/lab-html-exercise)
 - [lab-css-recipes-clone](https://github.com/My-Ironhack-lab/lab-css-recipes-clone)
@@ -116,36 +179,25 @@ Proyecto educativo para juniors que quieren orientarse al stack de desarrollo Ja
 
 ---
 
-## 🛠️ Tecnologías
+## 🎯 Enfoque Actual & Objetivos 2026
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-</p>
+- 🤖 **Arquitecturas RAG & Sistemas Multiagente:** Integración de protocolos MCP, Agent Framework y modelos open-source (IBM Granite, Llama 3.1).
+- ☕ **Backend Empresarial:** Profundización en microservicios, seguridad y persistencia avanzada con Java, Spring Boot y JPA/Hibernate.
+- 📐 **Spec-Driven Development (SDD):** Desarrollo guiado por especificaciones con GitHub Spec Kit y Sandboxes seguros.
+- 🧠 **Soluciones PsyTech:** Construcción de productos donde la psicología aplicada y la IA optimicen la experiencia humana y el aprendizaje.
 
 ---
 
-## 🎯 Objetivos 2026
+## 📫 Conecta conmigo
 
-- ✅ Consolidar buenas prácticas en Java y POO  
-- 🚀 Construir aplicaciones fullstack mantenibles  
-- 📚 Seguir profundizando en backend, arquitectura y cloud  
-- 🤝 Colaborar en proyectos open source  
-
----
-
-## 📫 Contacto
-
-- GitHub: [@Blancadum](https://github.com/Blancadum)
-- Web: [psiqfly.com](https://www.psiqfly.com/)
+- **LinkedIn:** [linkedin.com/in/blancadeuna](https://www.linkedin.com/in/blancadeuna)
+- **Credly:** [credly.com/users/blancadeuna](https://www.credly.com/users/blancadeuna)
+- **Web:** [psiqfly.com](https://www.psiqfly.com/)
+- **Email:** blancadum@gmail.com
 
 ---
 
 <p align="center">
-  <em>Gracias por pasarte por mi perfil 💙</em>
+  <em>«El código más potente es el que comprende las necesidades humanas que hay detrás de la pantalla.»</em>
 </p>
+
